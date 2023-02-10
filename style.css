@@ -1,0 +1,19 @@
+.highlight {
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .bold {
+    padding-left: 1rem;
+    font-weight: 700;
+  }
+  .ijo {
+    background-color: rgb(81, 231, 156);
+  }
+  .biru {
+    background-color: rgb(174, 177, 0);
+  }
+  .merah {
+    background-color: rgb(211, 23, 23);
+  }
